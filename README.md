@@ -1,2 +1,4 @@
 # Dollar.io
-test
+
+
+ينقل ملف التعريب لـ FRAssets.bundle
